@@ -1,0 +1,51 @@
+.navbar > .container {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+/* .navbar {
+    margin: 0;
+    padding: 0;
+  } */
+
+  .border {
+    border: 2px solid black !important;
+    padding: 20px !important;
+  }
+  
+  .navbar-brand-left {
+    margin-right: 0px !important;
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+  }
+
+
+  
+  .navbar-brand-left span {
+    font-family: "Segoe Script", cursive !important;
+    font-style: italic;
+    font-weight: 100;
+  font-size: 30px;
+  line-height: 1.2;
+  text-align: center;
+  text-transform: capitalize;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: black !important;
+  }
+  
+ .btn-outline-success {
+    background-color: black !important;
+    border-color: black !important;
+    color: #fff !important;
+  }
+
+  .btn-outline-success:hover{
+    background-color: wheat !important;
+    border-color: wheat !important;
+    color: black !important;
+  }
+  

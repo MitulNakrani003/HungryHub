@@ -1,0 +1,16 @@
+.submit-button{
+    background-color: black !important;
+    border: 2px solid white !important;
+    color: white !important;
+    font-family: "Michroma" !important;
+    font-size: 1.1rem !important;
+    letter-spacing: 3px !important;
+    height: 50px !important;
+    width: 400px !important;
+}
+
+.submit-button:hover{
+    background-color: wheat !important;
+    border: 2px solid black !important;
+    color: black !important;
+}

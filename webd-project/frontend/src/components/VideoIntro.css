@@ -1,0 +1,46 @@
+
+
+/* navBar ends */
+
+.video-header {
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+}
+.video-header a{
+  text-decoration: none;
+  color:white
+}
+video {
+    background: brown;
+    object-fit: cover;
+    opacity: 0.5;
+  }
+  .viewport-header {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .mainHeading p{
+    font-size: 70px;
+    font-weight: bolder;
+    font-family: 'Segoe Script', cursive;
+    background-color: white;
+    color: #020202;
+    border: 4px solid;
+    padding: 10px;
+  }
+
+  video ,.viewport-header {
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  left: 0;
+  z-index:-1;
+  }
+ /*video ends*/
+/* 
+ .mainHeading p{
+  background-color: wheat;
+ } */

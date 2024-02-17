@@ -1,0 +1,28 @@
+.menuTitle {
+    position: absolute !important;
+    padding: 100% !important;
+    margin-right: auto !important;
+    margin-bottom: auto !important;
+    bottom: 40% !important;
+    left: 35% !important;
+    transform: none !important;
+    background-color: rgba(255, 255, 255) !important;
+    font-size: 44px !important;
+    color: black !important;
+    /* padding: 2% !important; */
+    padding-top: 2% !important;
+    padding-bottom: 2% !important;
+    padding-left: 10% !important;
+    padding-right: 10% !important;
+    font-family: "Lucida Handwriting", cursive;
+    font-weight: 100 !important;
+    font-style: italic;
+    /* border-radius: 50%; */
+    
+}
+
+@media (max-width : 1028px) {
+    .pageBanner {
+    display: none;
+    }
+}
