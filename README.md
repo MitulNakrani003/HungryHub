@@ -1,4 +1,3 @@
-# INFO6150Project_Group8
 
 ## Purpose
 
@@ -28,7 +27,6 @@ The purpose of the HungryHub website is to provide a user-friendly online platfo
 * Collapse
 * Container
 * Image
-# INFO6150Project_Group8
 
 ## Purpose
 
@@ -58,7 +56,6 @@ The purpose of the HungryHub website is to provide a user-friendly online platfo
 * Collapse
 * Container
 * Image
-# INFO6150Project_Group8
 
 ## Purpose
 
